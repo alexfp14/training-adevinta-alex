@@ -1,2 +1,2 @@
 Hola Este es el primer fichero para la intro a GIT
-Hacemos un cambio
+Hacemos un cambio en la rama main de forma remota
